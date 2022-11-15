@@ -36,3 +36,18 @@ TBL_HOSP_202108
 TBL_VACCRESV_202108
 
 ![image](https://user-images.githubusercontent.com/97486300/201588558-c4f571df-9e44-46a8-943e-56e226303753.png)
+
+
+## Q3. index 화면을 직접 구현해봅시다
+A.
+
+![image](https://user-images.githubusercontent.com/97486300/201805464-71a72d61-f533-4f7c-9346-4d8519710cf9.png)
+
+특이사항으로는 레이아웃에서 section부분을 만드는게 아닌,
+
+![image](https://user-images.githubusercontent.com/97486300/201805608-a7299eb0-acb4-4cd3-bc4b-d913897b8753.png)
+
+index 페이지에서 div를 사용해 section 부분을 지정해주었습니다
+
+
+![image](https://user-images.githubusercontent.com/97486300/201805705-ea6d3801-a67d-4950-ac05-9ab8c3a2362a.png)
